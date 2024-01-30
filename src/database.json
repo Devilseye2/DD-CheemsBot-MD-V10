@@ -54,6 +54,17 @@
       "premium": "true",
       "limit": 1000,
       "totalLimit": 0
+    },
+    "15202238877@s.whatsapp.net": {
+      "serialNumber": "ceba9e9a4a43b0227ea32e5e4ba11de1",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "☠️ V-21 ☠️",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
     }
   },
   "database": {},
@@ -183,6 +194,24 @@
       "anticontact": false,
       "antilink": false,
       "antilinkgc": false
+    },
+    "15202238877@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antilinkgc": false
     }
   },
   "game": {
@@ -250,7 +279,7 @@
       }
     },
     "12249933352@s.whatsapp.net": {
-      "totalhit": 25,
+      "totalhit": 29,
       "totalError": 0,
       "online": false,
       "autosticker": false,
