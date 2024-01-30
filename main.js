@@ -66,7 +66,7 @@ require('./main.js')
 nocache('../main.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
 
 //------------------------------------------------------
-let phoneNumber = "916909137213"
+let phoneNumber = "919339619072"
 let owner = JSON.parse(fs.readFileSync('./src/data/role/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
@@ -176,9 +176,9 @@ try{
 			await delay(1999)
             console.log(chalk.yellow(`\n\n               ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
             console.log(color(`< ================================================== >`, 'cyan'))
-	        console.log(color(`\n${themeemoji} YT CHANNEL: Xeon`,'magenta'))
-            console.log(color(`${themeemoji} GITHUB: DGXeon `,'magenta'))
-            console.log(color(`${themeemoji} INSTAGRAM: @unicorn_xeon `,'magenta'))
+	        console.log(color(`\n${themeemoji} Follow me on Facebook : Debashis Dey`,'magenta'))
+            console.log(color(`${themeemoji} GITHUB: Ddebashis121212 `,'magenta'))
+            console.log(color(`${themeemoji} INSTAGRAM: @debashis_12321 `,'magenta'))
             console.log(color(`${themeemoji} WA NUMBER: ${owner}`,'magenta'))
             console.log(color(`${themeemoji} CREDIT: ${wm}\n`,'magenta'))
             await delay(1000 * 2) 
@@ -223,15 +223,31 @@ XeonLft = await getBuffer(ppuser)
 	            const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
 	            const xmembers = metadata.participants.length
                 xeonbody = `┌─❖
-│「 𝗛𝗶 👋 」
-└┬❖ 「  @${xeonName.split("@")[0]}  」
-   │✑  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 
-   │✑  ${metadata.subject}
-   │✑  𝗠𝗲𝗺𝗯𝗲𝗿 : 
-   │✑ ${xmembers}th
-   │✑  𝗝𝗼𝗶𝗻𝗲𝗱 : 
-   │✑ ${xtime} ${xdate}
-   └───────────────┈ ⳹`
+                │「 𝗛𝗶 👋 」
+                └┬❖ 「  @${xeonName.split("@")[0]}  」
+                   │✑  𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝕿𝖔 
+                   │✑         ${metadata.subject}
+                   │
+                   │✑  𝕸𝖊𝖒𝖇𝖊𝖗 : 
+                   │✑         ${xmembers}th
+                   │
+                   │✑  𝕵𝖔𝖎𝖓𝖊𝖉 𝖔𝖓 : 
+                   │✑         ${xtime} ${xdate} 
+                   │
+                   │✑ 𝘾𝙤𝙣𝙜𝙧𝙖𝙩𝙪𝙡𝙖𝙩𝙞𝙤𝙣𝙨
+                    |     @${xeonName.split("@")[0]} 𝘽𝙧𝙤/𝙎𝙞𝙨, 
+                    |                  𝙔𝙤𝙪 𝙖𝙧𝙚 𝙣𝙤𝙬 𝙖 𝙢𝙚𝙢𝙗𝙚𝙧 𝙤𝙛 𝙤𝙪𝙧
+                    | ${metadata.subject} 𝙁𝙖𝙢𝙞𝙡𝙮❤️🤝
+                   └─┬──────────────────────┈ ⳹
+                         │
+                         │✑ ▒▓█►─𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝖂𝖍𝖆𝖙𝖘𝖆𝖕𝖕 𝕭𝕺𝕿─◄█▓▒
+                         │
+                         │✑ 𝕮𝖗𝖊𝖆𝖙𝖊𝖉 𝕭𝖞 : ${ownername}
+                         │
+                         │✑ 𝖁𝖊𝖗𝖘𝖎𝖔𝖓: 9.0
+                         │
+                         │✑ 𝕻𝖗𝖊𝖋𝖎𝖝: None
+                         └──────────────────────┈ ⳹`
 XeonBotInc.sendMessage(anu.id,
  { text: xeonbody,
  contextInfo:{
@@ -251,15 +267,28 @@ XeonBotInc.sendMessage(anu.id,
                 	let xeonName = num
                     const xeonmembers = metadata.participants.length
                     xeonbody = `┌─❖
-│「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 👋 」
-└┬❖ 「 @${xeonName.split("@")[0]}  」
-   │✑  𝗟𝗲𝗳𝘁 
-   │✑ ${metadata.subject}
-   │✑  𝗠𝗲𝗺𝗯𝗲𝗿 : 
-   │✑ ${xeonmembers}th
-   │✑  𝗧𝗶𝗺𝗲 : 
-   │✑  ${xeontime} ${xeondate}
-   └───────────────┈ ⳹`
+                    │「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 👋 」
+                    └┬❖ 「 @${xeonName.split("@")[0]}  」
+                       │✑  𝕷𝖊𝖋𝖙 𝕱𝖗𝖔𝖒: 
+                       │✑        ${metadata.subject}
+                       │
+                       │✑  𝕸𝖊𝖒𝖇𝖊𝖗 : 
+                       │✑        ${xeonmembers}th
+                       │
+                       │✑  𝕷𝖊𝖋𝖙 𝕺𝖓 : 
+                       │✑        ${xeontime} ${xeondate}
+                       │
+                       │✑  He/She is no more in this group 😔
+                       └─┬─────────────────────┈ ⳹
+                             │
+                             │✑ ▒▓█►─𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝖂𝖍𝖆𝖙𝖘𝖆𝖕𝖕 𝕭𝕺𝕿─◄█▓▒
+                             │
+                             │✑ 𝕮𝖗𝖊𝖆𝖙𝖊𝖉 𝕭𝖞 : ${ownername}
+                             │
+                             │✑ 𝖁𝖊𝖗𝖘𝖎𝖔𝖓: 9.0
+                             │
+                             │✑ 𝕻𝖗𝖊𝖋𝖎𝖝: None
+                             └─────────────────────┈ ⳹`
 XeonBotInc.sendMessage(anu.id,
  { text: xeonbody,
  contextInfo:{
@@ -267,11 +296,11 @@ XeonBotInc.sendMessage(anu.id,
  "externalAdReply": {"showAdAttribution": true,
  "containsAutoReply": true,
  "title": ` ${global.botname}`,
-"body": `${ownername}`,
+"body": `Follow me on Facebook\n\n ${ownername}`,
  "previewType": "PHOTO",
 "thumbnailUrl": ``,
 "thumbnail": XeonLft,
-"sourceUrl": `${wagc}`}}})
+"sourceUrl": `${websitex}`}}})
 }
 }
 } catch (err) {
