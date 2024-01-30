@@ -32,6 +32,28 @@
       "premium": "true",
       "limit": 1000,
       "totalLimit": 0
+    },
+    "919339619072@s.whatsapp.net": {
+      "serialNumber": "a3c30e59a0f63a3ca2da4eb2f0da9ef4",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "╚»★ 𝓓𝓮𝓫𝓪𝓼𝓱𝓲𝓼 ★«╝",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "12249933352@s.whatsapp.net": {
+      "serialNumber": "ee37c94144f3b45a5e8e5d1ec611b582",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "꧁☬►༺𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝕭𝕺𝕿༻◄☬꧂",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
     }
   },
   "database": {},
@@ -91,6 +113,60 @@
       "antilinkgc": false
     },
     "14437095780@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antilinkgc": false
+    },
+    "120363048199591741@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antilinkgc": false
+    },
+    "12249933352@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antilinkgc": false
+    },
+    "120363167586531796@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antibot": false,
@@ -170,6 +246,36 @@
         "owner": {
           "nick": "+91 69091 37213",
           "alias": "916909137213"
+        }
+      }
+    },
+    "12249933352@s.whatsapp.net": {
+      "totalhit": 25,
+      "totalError": 0,
+      "online": false,
+      "autosticker": false,
+      "autobio": false,
+      "autoread": false,
+      "autoblocknum": false,
+      "onlyindia": false,
+      "onlyindo": false,
+      "onlygrub": false,
+      "onlypc": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "watermark": {
+        "packname": "Sticker By",
+        "author": "👑 𝕯𝖊𝖇𝖆𝖘𝖍𝖎𝖘 👑\n\n"
+      },
+      "about": {
+        "bot": {
+          "nick": "꧁☬►༺𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝕭𝕺𝕿༻◄☬꧂",
+          "alias": "░▒▓█►─𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝖂𝖍𝖆𝖙𝖘𝖆𝖕𝖕 𝕭𝕺𝕿─◄█▓▒░"
+        },
+        "owner": {
+          "nick": "╚»★ 𝓓𝓮𝓫𝓪𝓼𝓱𝓲𝓼 ★«╝",
+          "alias": "919339619072"
         }
       }
     }
