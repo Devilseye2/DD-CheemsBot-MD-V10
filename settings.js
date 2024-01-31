@@ -12,8 +12,8 @@ const chalk = require('chalk')
 
 //owmner v card
 global.ytname = "No YT Channel" //ur yt chanel name
-global.socialm = "GitHub: Debashis121212" //ur github or insta name
-global.location = "Paikpara,Nalhati,Birbhum,WB,INDIA"//ur location
+global.socialm = "GitHub:Sudipto122005" //ur github or insta name
+global.location = "Mayureswar, Birbhum"//ur locationar
 
 //new
 global.botname = '░▒▓█►─𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝖂𝖍𝖆𝖙𝖘𝖆𝖕𝖕 𝕭𝕺𝕿─◄█▓▒░' //ur bot name
