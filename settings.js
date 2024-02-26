@@ -11,13 +11,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //owmner v card
-global.ytname = "No YT Channel" //ur yt chanel name
-global.socialm = "GitHub:geemkuu" //ur github or insta name
+global.ytname = "YT: Nickson" //ur yt chanel name
+global.socialm = "GitHub:Robystis" //ur github or insta name
 global.location = "Nairobi,Kenya"//ur locationar
 
 //new
 global.botname = '░▒▓█►n͜͡önesence ×◄█▓▒░' //ur bot name
-global.ownernumber = '254700569709' //ur owner number
+global.ownernumber = '254718382875' //ur owner number
 global.ownername = '░▒▓█►亗『ＧＥＥ』亗◄█▓▒░'//ur owner name
 global.websitex = "https://www.facebook.com/gee.mkuu"
 global.wagc = "https://chat.whatsapp.com/C4NU6KefgoLL9W8vpbhbEY"
@@ -26,9 +26,9 @@ global.wm = "gee WA Bot"
 global.botscript = 'https://github.com/geemkuu/CheemsBot-MD10' //script link
 global.packname = "Sticker By"
 global.author = "👑 geemkuu 👑\n\n"
-global.creator = "254709569709@s.whatsapp.net"
+global.creator = "254718382875@s.whatsapp.net"
 global.xprefix = ''
-global.premium =["254700569709"] // Premium User
+global.premium =["254718382875"] // Premium User
 global.hituet = 0
 
 //bot sett
