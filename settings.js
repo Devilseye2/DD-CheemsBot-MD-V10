@@ -27,7 +27,7 @@ global.botscript = 'https://github.com/geemkuu/CheemsBot-MD10' //script link
 global.packname = "Sticker By"
 global.author = "👑 geemkuu 👑\n\n"
 global.creator = "254718382875@s.whatsapp.net"
-global.xprefix = ''
+global.xprefix = ','
 global.premium =["254718382875"] // Premium User
 global.hituet = 0
 
